@@ -28,3 +28,7 @@ fp-info-cache
 *.xml
 *.csv
 *.DS_Store
+hardware/fab/
+hardware/fab.zip
+
+
